@@ -1,0 +1,2 @@
+# autopilot_ship_server
+无人船项目的服务器后端，主要负责船状态信息的中转
